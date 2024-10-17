@@ -7,6 +7,8 @@ public class ProductTests {
 
     public ProductTests() {
 
-        log.info("testtesttestaaaaaaaaaaaaaaaaaaaa");
+        log.info("testtesttestaaaaaaaaaaaaaaaaaaaaaaa");
+
+        log.info("!3123");
     }
 }
